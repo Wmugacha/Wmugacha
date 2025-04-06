@@ -1,18 +1,29 @@
-Welcome to my GitHub profile
-- I'm Wilfred Mugacha, a software engineer.
-- Solving the world's biggest problems, One line of code per time.
-- I'm interested in exciting software engineering projects
-- You can reach me via:<br>
-[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=blue)](https://github.com/Wmugacha)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mugachaliam/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wilfredmugacha@gmail.com)
-[![Gmail](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/W_mugacha)
+<h1>Hi, I'm Wilfred! <br/><a href="https://github.com/Wmugacha">Software Engineer</a>, </h1>
 
-[![Wilfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wmugacha&show_icons=true&theme=transparent&title_color=blue)](https://github.com/anuraghazra/github-readme-stats)
+<h2>👨‍💻 Software Development Projects:</h2>
 
-<h4 style="display:inline">Visitors: </h4> <img style="display:inline" src="https://profile-counter.glitch.me/Wmugacha/count.svg" alt="hit counter" align="center">
+- <b>Farm Management Software</b>
+  - [FarmingEdge](https://github.com/Wmugacha/FarmingEdge.git)
 
-<!---
-Wmugacha/Wmugacha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/wmugacha
+[linkedin]: https://linkedin.com/in/
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
