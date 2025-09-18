@@ -31,6 +31,26 @@ I'm starting a new project: **Nitrogen Predictor API**, which will use **MRI Spe
 - **Cloud-Native Architecture**
 - **Advanced API Security Practices**
 
+## 💻 Technologies I Use
+
+- ![Python](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg) **Python**
+- ![Django](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg) **Django**
+- ![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg) **PostgreSQL**
+- ![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg) **MongoDB**
+- ![Flask](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg) **Flask**
+- ![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg) **Docker**
+- ![Stripe](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stripe.svg) **Stripe**
+- ![Celery](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/celery.svg) **Celery**
+- ![RabbitMQ](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg) **RabbitMQ**
+- ![Redis](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg) **Redis**
+- ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg) **GitHub**
+- ![AWS](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg) **AWS**
+- ![GraphQL](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg) **GraphQL**
+- ![Kubernetes](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg) **Kubernetes**
+- ![SQL](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg) **SQL**
+
+
+
 ## 🤝 Let's Connect!
 - [Twitter](https://twitter.com/WilfredMugacha) <img align="left" alt="Wilfred Mugacha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 - [LinkedIn](https://www.linkedin.com/in/wilfred-mugacha) <img align="left" alt="Wilfred Mugacha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
