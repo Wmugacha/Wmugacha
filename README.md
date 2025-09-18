@@ -1,7 +1,7 @@
 # Hi, I'm Wilfred Mugacha! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gC8t01G6sR42J48m/giphy.gif" alt="Developer GIF" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJ2YnF0enMxbWViNHF2cndjcmpoMWltZ3ltb2tmdGJoOHNycGczcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Developer GIF" width="300"/>
 </p>
 
 I'm a **Software Engineer** with a passion for building **robust** and **scalable backend systems**. As an **ALX ProDev graduate**, I specialize in crafting elegant solutions using **Python** and **Django**, with a focus on **APIs**, **microservices**, and **asynchronous task management**. 💻
