@@ -1,29 +1,40 @@
-<h1>Hi, I'm Wilfred! <br/><a href="https://github.com/Wmugacha">Software Engineer</a>, </h1>
+# Hi, I'm Wilfred Mugacha! 👋
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gC8t01G6sR42J48m/giphy.gif" alt="Developer GIF" width="300"/>
+</p>
 
-- <b>Farm Management Software</b>
-  - [FarmingEdge](https://github.com/Wmugacha/FarmingEdge.git)
+I'm a **Software Engineer** with a passion for building **robust** and **scalable backend systems**. As an **ALX ProDev graduate**, I specialize in crafting elegant solutions using **Python** and **Django**, with a focus on **APIs**, **microservices**, and **asynchronous task management**. 💻
 
-<h2> 🤳 Connect with me:</h2>
+## My Projects
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### **ALX E-Commerce Backend**
+A scalable e-commerce API built using **Python**, **Django**, and a **PostgreSQL** database. It integrates secure payments through **Stripe**, handles asynchronous tasks with **Celery** and **RabbitMQ**, and is fully containerized with **Docker**. It's deployed on **Railway**, demonstrating a full **CI/CD** pipeline.
 
-[twitter]: https://twitter.com/wmugacha
-[linkedin]: https://linkedin.com/in/
+- **Technologies**: Django, Django REST Framework, PostgreSQL, Stripe, Celery, RabbitMQ, Docker
+- **Repository**: [github.com/Wmugacha/alx-project-nexus](https://github.com/Wmugacha/alx-project-nexus)
+- **Deployed API**: [Ecommerce Backend](https://alxprojectnexus.up.railway.app)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### **Farm Management Software**
+A comprehensive farm management tool designed for optimizing agricultural operations and data analysis. This project leverages **Python** and **Flask** to streamline workflows and track farm data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Technologies**: Python, Flask
+- **Repository**: [FarmingEdge](https://github.com/Wmugacha/FarmingEdge)
+
+## 🚀 What's Next?
+I'm starting a new project: **Nitrogen Predictor API**, which will use **MRI Spectra** data to provide predictive insights into agricultural soil nitrogen levels. I'm excited to dive into **Machine Learning** and **Data Science** in the context of backend development.
+
+## 🌱 I'm Currently Learning
+- **Machine Learning** & **Data Science**
+- **Cloud-Native Architecture**
+- **Advanced API Security Practices**
+
+## 🤝 Let's Connect!
+- [Twitter](https://twitter.com/WilfredMugacha) <img align="left" alt="Wilfred Mugacha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+- [LinkedIn](https://www.linkedin.com/in/wilfred-mugacha) <img align="left" alt="Wilfred Mugacha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+---
+
+Feel free to check out my repositories, and don’t hesitate to reach out if you're interested in collaborating or learning more about my work!
