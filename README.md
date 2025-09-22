@@ -12,7 +12,7 @@ I'm a **Software Engineer** with a passion for building **robust** and **scalabl
 A scalable e-commerce API built using **Python**, **Django**, and a **PostgreSQL** database. It integrates secure payments through **Stripe**, handles asynchronous tasks with **Celery** and **RabbitMQ**, and is fully containerized with **Docker**. It's deployed on **Railway**, demonstrating a full **CI/CD** pipeline.
 
 - **Technologies**: Django, Django REST Framework, PostgreSQL, Stripe, Celery, RabbitMQ, Docker
-- **Repository**: [github.com/Wmugacha/alx-project-nexus](https://github.com/Wmugacha/alx-project-nexus)
+- **Repository**: [Alx-project-nexus](https://github.com/Wmugacha/alx-project-nexus)
 - **Deployed API**: [Ecommerce Backend](https://alxprojectnexus.up.railway.app)
 
 ---
@@ -33,21 +33,23 @@ I'm starting a new project: **Nitrogen Predictor API**, which will use **MRI Spe
 
 ## 💻 Technologies I Use
 
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg | width=20px) **Python** 
-| ![Django](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg | width=20px) **Django**
-| ![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg | width=20px) **PostgreSQL**
-| ![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg | width=20px) **MongoDB**
-| ![Flask](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg | width=20px) **Flask**
-| ![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg | width=20px) **Docker**
-| ![Stripe](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stripe.svg | width=20px) **Stripe**
-| ![Celery](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/celery.svg | width=20px) **Celery**
-| ![RabbitMQ](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg | width=20px) **RabbitMQ**
-| ![Redis](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg | width=20px) **Redis**
-| ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg | width=20px) **GitHub**
-| ![AWS](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg | width=20px) **AWS**
-| ![GraphQL](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg | width=20px) **GraphQL**
-| ![Kubernetes](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg | width=20px) **Kubernetes**
-| ![SQL](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg | width=20px) **SQL**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="20"/> Python &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" alt="Django" width="20"/> Django &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="PostgreSQL" width="20"/> PostgreSQL &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" alt="MongoDB" width="20"/> MongoDB &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" alt="Flask" width="20"/> Flask &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" alt="Docker" width="20"/> Docker &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stripe.svg" alt="Stripe" width="20"/> Stripe &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/celery.svg" alt="Celery" width="20"/> Celery &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg" alt="RabbitMQ" width="20"/> RabbitMQ &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" alt="Redis" width="20"/> Redis &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="20"/> GitHub &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" alt="AWS" width="20"/> AWS &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" alt="GraphQL" width="20"/> GraphQL &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" alt="Kubernetes" width="20"/> Kubernetes &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" alt="SQL" width="20"/> SQL
+</p>
 
 
 ## 🤝 Let's Connect!
