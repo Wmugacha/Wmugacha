@@ -54,7 +54,7 @@ I'm starting a new project: **Nitrogen Predictor API**, which will use **MRI Spe
 
 ## 🤝 Let's Connect!
 - [Twitter](https://twitter.com/WilfredMugacha) <img align="left" alt="Wilfred Mugacha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-- [LinkedIn](https://www.linkedin.com/in/wilfred-mugacha) <img align="left" alt="Wilfred Mugacha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+- [LinkedIn](https://www.linkedin.com/in/wilfredmugacha) <img align="left" alt="Wilfred Mugacha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 ---
 
