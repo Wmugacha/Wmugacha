@@ -13,7 +13,6 @@ I'm a **Backend Software Engineer** passionate about building scalable APIs, dis
 An enterprise-grade multi-tenant SaaS platform built for agricultural cooperatives and agribusinesses. The system provides role-based access control, crop season management, fertilizer optimization workflows, subscription billing, and asynchronous soil nutrient processing at scale.
 
 * **Technologies:** Python, Django, FastAPI, PostgreSQL, Supabase, Redis, Celery, Docker, AWS EC2, Stripe, GitHub Actions
-* **Repository:** https://github.com/Wmugacha/Agritech-SAAS-Backend
 * **Repository:** [Agritech SaaS Backend](https://github.com/Wmugacha/Agritech-SAAS-Backend)
 * **API Documentation:** [Swagger Docs](http://51.20.119.5:8001/api/docs/)
 
