@@ -14,7 +14,8 @@ An enterprise-grade multi-tenant SaaS platform built for agricultural cooperativ
 
 * **Technologies:** Python, Django, FastAPI, PostgreSQL, Supabase, Redis, Celery, Docker, AWS EC2, Stripe, GitHub Actions
 * **Repository:** https://github.com/Wmugacha/Agritech-SAAS-Backend
-* **API Documentation:** http://51.20.119.5:8001/api/docs/
+* **Repository:** [Agritech SaaS Backend](https://github.com/Wmugacha/Agritech-SAAS-Backend)
+* **API Documentation:** [Swagger Docs](http://51.20.119.5:8002/swagger/)
 
 ---
 
@@ -23,8 +24,8 @@ An enterprise-grade multi-tenant SaaS platform built for agricultural cooperativ
 A scalable e-commerce API built using **Python**, **Django**, and **PostgreSQL**. It integrates secure payments through **Stripe**, handles asynchronous tasks with **Celery** and **RabbitMQ**, and is fully containerized with **Docker** while demonstrating production deployment and CI/CD practices.
 
 * **Technologies:** Django, Django REST Framework, PostgreSQL, Stripe, Celery, RabbitMQ, Docker
-* **Repository:** https://github.com/Wmugacha/alx-project-nexus
-* **Deployed API:** http://51.20.119.5:8002/swagger/
+* **Repository:** [ALX Project Nexus](https://github.com/Wmugacha/alx-project-nexus)
+* **Live API Docs:** [View Documentation](http://51.20.119.5:8002/swagger/)
 
 ## 🌱 I'm Currently Learning
 
