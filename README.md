@@ -15,7 +15,7 @@ An enterprise-grade multi-tenant SaaS platform built for agricultural cooperativ
 * **Technologies:** Python, Django, FastAPI, PostgreSQL, Supabase, Redis, Celery, Docker, AWS EC2, Stripe, GitHub Actions
 * **Repository:** https://github.com/Wmugacha/Agritech-SAAS-Backend
 * **Repository:** [Agritech SaaS Backend](https://github.com/Wmugacha/Agritech-SAAS-Backend)
-* **API Documentation:** [Swagger Docs](http://51.20.119.5:8002/swagger/)
+* **API Documentation:** [Swagger Docs](http://51.20.119.5:8001/api/docs/)
 
 ---
 
